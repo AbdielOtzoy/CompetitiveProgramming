@@ -1,3 +1,7 @@
+/*
+link: https://codeforces.com/problemset/problem/363/B
+tags: implementation, greedy, sliding window
+*/
 #include <bits/stdc++.h>
 #define LOCAL
 using namespace std;

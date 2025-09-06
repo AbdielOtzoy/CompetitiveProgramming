@@ -1,3 +1,7 @@
+/*
+link: https://codeforces.com/problemset/problem/289/B
+tags: implementation, sorting, greedy
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

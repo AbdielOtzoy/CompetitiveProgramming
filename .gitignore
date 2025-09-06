@@ -1,0 +1,8 @@
+// ignorar archivos ejecutables
+*.exe
+*.out
+
+// archivos binarios
+*.bin
+*.o
+*.obj

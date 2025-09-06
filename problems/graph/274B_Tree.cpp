@@ -1,3 +1,7 @@
+/*
+link: https://codeforces.com/problemset/problem/274/B
+tags: dfs, trees, implementation
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

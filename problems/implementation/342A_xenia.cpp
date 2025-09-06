@@ -1,3 +1,7 @@
+/*
+link: https://codeforces.com/problemset/problem/342/A
+tags: implementation
+*/
 #include <bits/stdc++.h>
 using namespace std;
 

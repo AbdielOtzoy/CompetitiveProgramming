@@ -1,3 +1,9 @@
+/*
+link: https://codeforces.com/problemset/problem/189/A
+tags: dp, implementation
+bottom-up dp
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
